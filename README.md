@@ -2,4 +2,4 @@
 
 data: sonar.csv
 
-python notebook: sonar.csv
+python notebook: sonar_project_basic_ML.ipynb
